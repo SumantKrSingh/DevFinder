@@ -1,0 +1,23 @@
+.dark {
+  --background: #0d1117;
+  --paper: #161b22;
+  --primary: #58a6ff;
+  --border: #30363d;
+  --chip-bg: #21262d;
+  --text: #ffffff;
+}
+
+.light {
+  --background: #f6f8fa;
+  --paper: #ffffff;
+  --primary: #0969da;
+  --border: #8dbdee;
+  --chip-bg: #eaeef2;
+  --text: #1f2328;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
